@@ -86,6 +86,6 @@ Este projeto está sob a [Licença MIT](./LICENSE). Você pode usá-lo livrement
 
 Desenvolvido com 💖 (e um pouco de fome) por **William Milanez**.
 
-> Projeto criado para fins **educacionais**, com foco em **prática de HTML e CSS**, e simulação de um site funcional de restaurante.
+> Projeto criado para fins **educacionais**, com foco em **prática de HTML e CSS**, e simulação de um site funcional de restaurante como parte dos ensinamentos da Rocketseat.
 
 ---
