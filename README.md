@@ -15,13 +15,13 @@
 ## 📚 Tabela de Conteúdos
 
 - [📌 Sobre o Projeto](#-sobre-o-projeto)
-- [🖼️ Imagem de Fundo](#-imagem-de-fundo)
+- [🖼️ Imagem de Fundo](#️-imagem-de-fundo)
 - [🚀 Como Usar](#-como-usar)
 - [✅ Funcionalidades](#-funcionalidades)
-- [🛠️ Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
 - [🔮 Ideias de Melhorias Futuras](#-ideias-de-melhorias-futuras)
 - [📄 Licença](#-licença)
-- [✍️ Autor / Créditos](#-autor--créditos)
+- [✍️ Autor / Créditos](#️-autor--créditos)
 - [🤝 Agradecimentos](#-agradecimentos)
 
 ---
