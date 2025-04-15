@@ -108,8 +108,9 @@ Desenvolvido com 💖 (e um pouco de fome) por:
 **William Milanez**  
 🔗 [github.com/williammilanez](https://github.com/williammilanez)
 
-> Projeto replicado como parte dos ensinamentos da Rocketseat.  
-> Criado para fins **educacionais**, com foco em **prática de HTML e CSS** e simulação de um site funcional de restaurante.
+> Simulação de um site funcional de restaurante.  
+> Projeto desenvolvido com base nos ensinamentos da **Rocketseat**,  
+> criado com fins **educacionais**, focado na prática de **HTML e CSS**.
 
 ---
 
