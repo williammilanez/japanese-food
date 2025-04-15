@@ -1,23 +1,23 @@
 # 🍣 Japanese Food - Para os amantes da culinária japonesa!
 
 ![Status](https://img.shields.io/badge/status-online-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![Feito com](https://img.shields.io/badge/feito%20com-HTML%20%26%20CSS-orange)
 ![Responsivo](https://img.shields.io/badge/design-responsivo-blueviolet)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
 
 ## 📚 Tabela de Conteúdos
 
-- [📌 Sobre o Projeto](#-sobre-o-projeto)
+- [📌 Sobre o Projeto](#️-sobre-o-projeto)
 - [🖼️ Imagem de Fundo](#️-imagem-de-fundo)
-- [🚀 Como Usar](#-como-usar)
-- [✅ Funcionalidades](#-funcionalidades)
+- [🚀 Como Usar](#️-como-usar)
+- [✅ Funcionalidades](#️-funcionalidades)
 - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
-- [🔮 Ideias de Melhorias Futuras](#-ideias-de-melhorias-futuras)
-- [📄 Licença](#-licença)
+- [🔮 Ideias de Melhorias Futuras](#️-ideias-de-melhorias-futuras)
+- [📄 Licença](#️-licença)
 - [✍️ Autor / Créditos](#️-autor--créditos)
-- [🙏 Agradecimentos](#-agradecimentos)
+- [🤝 Agradecimentos](#️-agradecimentos)
 
 ---
 
@@ -108,7 +108,7 @@ Desenvolvido com 💖 (e um pouco de fome) por:
 
 ---
 
-## 🙏 Agradecimentos
+## 🤝 Agradecimentos
 
 Agradecimento especial à **[Rocketseat](https://www.rocketseat.com.br/)** pela qualidade dos conteúdos, desafios e pela comunidade que impulsiona o aprendizado contínuo.
 
