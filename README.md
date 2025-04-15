@@ -1,9 +1,11 @@
 # 🍣 Japanese Food - Para os amantes da culinária japonesa!
 
-![Status](https://img.shields.io/badge/status-online-brightgreen)
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+![Versão](https://img.shields.io/badge/versão-1.0.0-blue)
 ![Feito com](https://img.shields.io/badge/feito%20com-HTML%20%26%20CSS-orange)
 ![Responsivo](https://img.shields.io/badge/design-responsivo-blueviolet)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![Último commit](https://img.shields.io/github/last-commit/williammilanez/japanese-food)
+![Licença](https://img.shields.io/badge/license-MIT-blue)
 
 ---
 
