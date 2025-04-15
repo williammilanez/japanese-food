@@ -97,7 +97,8 @@ https://api.whatsapp.com/send?phone=0012123456789&text=Oi, vim pelo site! Quero 
 
 ## 📄 Licença
 
-Este projeto está sob a [Licença MIT](./LICENSE). Você pode usá-lo livremente para fins pessoais ou comerciais.
+Este projeto está sob a [Licença MIT](./LICENSE).
+© 2025 - William Milanez. Sinta-se à vontade para usar, modificar e compartilhar.
 
 ---
 
