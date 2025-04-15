@@ -3,7 +3,9 @@
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 ![Versão](https://img.shields.io/badge/versão-1.0.0-blue)
 ![Feito com](https://img.shields.io/badge/feito%20com-HTML%20%26%20CSS-orange)
-![Responsivo](https://img.shields.io/badge/design-responsivo-blueviolet)
+![Responsivo](https://img.shields.io/badge/design-responsivo-blueviolet)  
+![Deploy](https://img.shields.io/badge/deploy-GitHub%20Pages-blueviolet)
+![Top linguagem](https://img.shields.io/github/languages/top/williammilanez/japanese-food)
 ![Último commit](https://img.shields.io/github/last-commit/williammilanez/japanese-food)
 ![Licença](https://img.shields.io/badge/license-MIT-blue)
 
