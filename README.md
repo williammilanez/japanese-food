@@ -7,6 +7,20 @@
 
 ---
 
+## 📚 Tabela de Conteúdos
+
+- [📌 Sobre o Projeto](#-sobre-o-projeto)
+- [🖼️ Imagem de Fundo](#️-imagem-de-fundo)
+- [🚀 Como Usar](#-como-usar)
+- [✅ Funcionalidades](#-funcionalidades)
+- [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
+- [🔮 Ideias de Melhorias Futuras](#-ideias-de-melhorias-futuras)
+- [📄 Licença](#-licença)
+- [✍️ Autor / Créditos](#️-autor--créditos)
+- [🙏 Agradecimentos](#-agradecimentos)
+
+---
+
 ## 📌 Sobre o Projeto
 
 Este é um site **one-page** para um restaurante de comida japonesa 🍱, criado com foco em **simplicidade**, **design visual agradável** e **facilidade para pedidos via WhatsApp**.
@@ -82,11 +96,20 @@ Este projeto está sob a [Licença MIT](./LICENSE). Você pode usá-lo livrement
 
 ---
 
-## ✍️ Autor
+## ✍️ Autor / Créditos
 
-Desenvolvido com 💖 (e um pouco de fome) por **William Milanez**.
+Desenvolvido com 💖 (e um pouco de fome) por:
 
-> - Projeto replicado como parte dos ensinamentos da **Rocketseat**.
-> - Para fins **educacionais**, com foco em **prática de HTML e CSS**, e simulação de um site funcional de restaurante.
+**William Milanez**  
+🔗 [github.com/williammilanez](https://github.com/williammilanez)
+
+> Projeto replicado como parte dos ensinamentos da Rocketseat.  
+> Criado para fins **educacionais**, com foco em **prática de HTML e CSS** e simulação de um site funcional de restaurante.
+
+---
+
+## 🙏 Agradecimentos
+
+Agradecimento especial à **[Rocketseat](https://www.rocketseat.com.br/)** pela qualidade dos conteúdos, desafios e pela comunidade que impulsiona o aprendizado contínuo.
 
 ---
