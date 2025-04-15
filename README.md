@@ -36,7 +36,7 @@ O botão é conectado à API oficial do WhatsApp com a seguinte URL:
 
 https://api.whatsapp.com/send?phone=0012123456789&text=Oi, vim pelo site! Quero fazer um pedido!
 
-> **📌 Dica:** Substitua o número por aquele que irá receber os pedidos:
+> **💡 Dica:** Substitua o número por aquele que irá receber os pedidos:
 > - `00` = Código do Brasil  
 > - `12` = DDD da sua região  
 > - `123456789` = Número do WhatsApp do restaurante
@@ -67,7 +67,7 @@ https://api.whatsapp.com/send?phone=0012123456789&text=Oi, vim pelo site! Quero 
 
 ---
 
-## 💡 Ideias de Melhorias Futuras
+## 🔮 Ideias de Melhorias Futuras
 
 - Adicionar cardápio com fotos dos pratos
 - Criar seções para endereço, horário de funcionamento e redes sociais
@@ -86,8 +86,7 @@ Este projeto está sob a [Licença MIT](./LICENSE). Você pode usá-lo livrement
 
 Desenvolvido com 💖 (e um pouco de fome) por **William Milanez**.
 
-> Projeto replicado como parte dos ensinamentos da Rocketseat.
-
-> Para fins **educacionais**, com foco em **prática de HTML e CSS**, e simulação de um site funcional de restaurante.
+> - Projeto replicado como parte dos ensinamentos da **Rocketseat**.
+> - Para fins **educacionais**, com foco em **prática de HTML e CSS**, e simulação de um site funcional de restaurante.
 
 ---
